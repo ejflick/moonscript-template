@@ -1,2 +1,2 @@
 love.draw = () ->
-    love.graphics.print("Hello!")
+    love.graphics.print("Hello there!")
